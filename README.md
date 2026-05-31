@@ -13,8 +13,6 @@ A classe Denuncia se relaciona diretamente com os enums de Categoria e Status, d
 
 Como Rodar o Projeto
 Para executar o projeto é necessário ter o Java JDK 17 ou superior instalado na máquina, além do VS Code com a extensão Extension Pack for Java.
-Com o ambiente configurado, basta clonar o repositório com o comando git clone https://github.com/devsecure/canal-denuncias.git, abrir a pasta no VS Code e executar o arquivo App.java clicando em Run acima do método main.
-O arquivo App.java demonstra o funcionamento completo do sistema, criando instâncias de todas as classes, simulando o registro de uma denúncia e percorrendo os diferentes status do ciclo de vida dela até a conclusão.
 
 Integrantes
 Bianca Falcão
